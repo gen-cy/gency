@@ -112,15 +112,15 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
+fb-share: False
+twitter-share: False
+linkedin-share: False
 reddit-share: False
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+google-plus-share: False
+tumblr-share: Falae
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "personal-jekyll-theme"
 
@@ -186,8 +186,8 @@ err-404-img: "/img/labtocat.png"
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
