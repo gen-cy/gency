@@ -172,10 +172,11 @@ social:
   #  url: "https://github.com/PanosSakkos/personal-jekyll-theme"
   - title: "instagram"
     url: "https://instagram.com/convergency"
-  - title: "users"
+  - title: "volume-control-phone"
     url: "https://discord.gency.dev"
   - title: "rss"
     url: "/feed.xml"
+  # https://fontawesome.com/v4.7.0/icons/ icons
 
 ############
 # 404 page #
