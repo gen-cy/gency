@@ -170,10 +170,10 @@ social:
   #  url: "https://twitter.com/"
   #- title: "github"
   #  url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "discord"
-    url: "https://discord.gency.dev"
   - title: "instagram"
     url: "https://instagram.com/convergency"
+  - title: "users"
+    url: "https://discord.gency.dev"
   - title: "rss"
     url: "/feed.xml"
 
