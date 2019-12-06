@@ -203,7 +203,7 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Posts: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
