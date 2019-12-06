@@ -204,7 +204,7 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   Posts: 'latest-post'
-  Timeline: 'timeline'
+  #Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
