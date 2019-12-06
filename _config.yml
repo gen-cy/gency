@@ -41,7 +41,7 @@ favicon: "/img/favicon.png"
 
 black-favicon: "/img/favicon.png"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bgnothing.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "live."
+  - text: "dying is bad for your health."
   - text: "i wish you excitement, intuition, luck, catharsis, and pleasant surprise today"
   - text: "It didn’t rain for you, maybe, but it always rains for me. The sky shatters and rains shards of glass. - Tablo"
   - text: "I'm sorry that I'm both your umbrella and the rain. - Tablo"
