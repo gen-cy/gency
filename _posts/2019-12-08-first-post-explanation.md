@@ -6,7 +6,7 @@ category: me
 tags: [ 'story' ]
 ---
 
-## Short Description of The Picture.
+## Short Description of The Picture
 
 Me sitting on an indoor bench with the Korean heart symbol. I tagged various accounts such as [@BackdoorLA](https://www.instagram.com/backdoorla/?hl=en) and my friend Thao on the shoes and the heart symbol respectively.
 
