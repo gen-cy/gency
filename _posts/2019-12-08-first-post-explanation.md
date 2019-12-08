@@ -24,4 +24,6 @@ Later that night, at Little Saigon, after a long 20 minute drive down to Garden 
 
 ## TL;DR
 
-Long story short, I wanted to post a picture on Instagram, so that I could tag @BackdoorLA. I wanted to take a picture that was lowkey K-Pop related to subtly expose my love to Epik High, so I chose to sit under the Korean heart symbol at The Source. I wanted my followers to realize that I use social media, and that I’m not dead, which is another reason why I posted. 
+Long story short, I wanted to post a picture on Instagram, so that I could tag [@BackdoorLA](https://www.instagram.com/backdoorla/?hl=en). I wanted to take a picture that was lowkey K-Pop related to subtly expose my love to Epik High, so I chose to sit under the Korean heart symbol at The Source. I wanted my followers to realize that I use social media, and that I’m not dead, which is another reason why I posted. 
+
+<small> there will be more post explanations to come, please bear with me. </small>
