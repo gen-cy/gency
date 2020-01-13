@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Gency"
-title: "Gency’s"
+title: "Gency"
 description: "EVERYTHING GENCY"
 keywords: "gency, dt, dev, personal, jekyll, theme"
 favicon: "/img/favicon.png"
