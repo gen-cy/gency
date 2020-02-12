@@ -127,7 +127,7 @@ excerpt_separator: 96
 
 paginate: 5
 
-email-share: True
+email-share: False
 fb-share: False
 twitter-share: False
 linkedin-share: False
